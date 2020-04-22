@@ -42,5 +42,6 @@ int main(){
         cout << "Valor: " << current->value << endl;
         current = current->next;
     }
+    cout << "hola jess" << endl;
     return 0;
 }
